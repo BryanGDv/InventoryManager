@@ -1,0 +1,2 @@
+# InventoryManager
+The inventory manager.
